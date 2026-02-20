@@ -10,7 +10,8 @@
 
 import streamlit as st
 from rag import process_urls, generate_answer
-
+from dotenv import load_dotenv
+load_dotenv()
 # -----------------------------
 # Page Configuration
 # -----------------------------
