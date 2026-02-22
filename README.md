@@ -50,7 +50,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/tiknaavenger/Real_Estate_Research_Tool.git
+   git clone https://github.com/MindMatrixPro/Real_Estate_Research_Tool.git
    cd Real_Estate_Research_Tool
    ```
 
